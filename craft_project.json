@@ -3,10 +3,10 @@
     "version": "0.0.1"
   },
   {
-    "homeUrl": "",
-    "description": "",
+    "homeUrl": "http://sechao.com",
+    "description": "Test craft.ai",
     "actionLibraries": {
-      "google": false
+      "google": true
     }
   }
 ]
