@@ -3,10 +3,10 @@
     "version": "0.0.1"
   },
   {
-    "homeUrl": "",
-    "description": "",
+    "homeUrl": "Home",
+    "description": "My first application",
     "actionLibraries": {
-      "google": false
+      "google": true
     }
   }
 ]
