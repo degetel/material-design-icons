@@ -1,3 +1,7 @@
+# Repository
+Forked from google/material-design-icons
+Material Design icons by Google
+
 # Material design icons
 
 Material design icons are the official [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google that are designed under the [material design guidelines](http://www.google.com/design/spec).
